@@ -24,6 +24,3 @@ Quests:
  Transposition
   Obraca tabelę
 
-
-regulamin aplikacji
-test na danych syntetycznych, np. ogólnodostępnych
